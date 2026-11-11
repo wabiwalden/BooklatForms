@@ -10,4 +10,8 @@
     <ForceDesignerDpiUnaware>true</ForceDesignerDpiUnaware>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Update="Dashboardpage.cs" />
+  </ItemGroup>
+
 </Project>
