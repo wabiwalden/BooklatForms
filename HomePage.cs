@@ -16,6 +16,7 @@ namespace BooklatForms
 
         private void btnOpenDashboard_Click(object sender, EventArgs e)
         {
+            MainForm.Instance.ShowPage(new DashboardPage(), "Dashboard", "Library totals and borrower eligibility");
         }
 
         private void btnOpenBrowse_Click(object sender, EventArgs e)

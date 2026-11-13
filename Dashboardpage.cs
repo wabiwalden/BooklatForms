@@ -15,6 +15,16 @@ namespace BooklatForms
             dgvBorrowed.ClearSelection();
         }
 
+        protected override void OnHandleCreated(EventArgs e)
+        {
+            base.OnHandleCreated(e);
+            BeginInvoke(new Action(() =>
+            {
+                dgvBorrowed.CurrentCell = null;
+                dgvBorrowed.ClearSelection();
+            }));
+        }
+
         private void btnCheckEligibility_Click(object sender, EventArgs e)
         {
         }

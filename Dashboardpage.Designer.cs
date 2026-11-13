@@ -495,9 +495,9 @@ namespace BooklatForms
             this.lblScore.AutoSize = false;
             this.lblScore.Font = new System.Drawing.Font("Segoe UI", 40F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblScore.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(211)))), ((int)(((byte)(153)))));
-            this.lblScore.Location = new System.Drawing.Point(0, 40);
+            this.lblScore.Location = new System.Drawing.Point(0, 30);
             this.lblScore.Name = "lblScore";
-            this.lblScore.Size = new System.Drawing.Size(170, 60);
+            this.lblScore.Size = new System.Drawing.Size(170, 72);
             this.lblScore.TabIndex = 0;
             this.lblScore.Text = "92";
             this.lblScore.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;

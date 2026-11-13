@@ -30,6 +30,7 @@ namespace BooklatForms
 
         private void btnNavDashboard_Click(object sender, EventArgs e)
         {
+            ShowPage(new DashboardPage(), "Dashboard", "Library totals and borrower eligibility");
         }
 
         private void btnNavBrowse_Click(object sender, EventArgs e)
