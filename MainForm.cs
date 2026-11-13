@@ -35,6 +35,7 @@ namespace BooklatForms
 
         private void btnNavBrowse_Click(object sender, EventArgs e)
         {
+            ShowPage(new BrowsePage(), "Browse Menu", "Search, filter, and open an item");
         }
 
         private void btnNavScan_Click(object sender, EventArgs e)

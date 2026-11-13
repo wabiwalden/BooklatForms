@@ -12,6 +12,7 @@ namespace BooklatForms
 
         private void btnBrowseCatalog_Click(object sender, EventArgs e)
         {
+            MainForm.Instance.ShowPage(new BrowsePage(), "Browse Menu", "Search, filter, and open an item");
         }
 
         private void btnOpenDashboard_Click(object sender, EventArgs e)
@@ -21,6 +22,7 @@ namespace BooklatForms
 
         private void btnOpenBrowse_Click(object sender, EventArgs e)
         {
+            MainForm.Instance.ShowPage(new BrowsePage(), "Browse Menu", "Search, filter, and open an item");
         }
 
         private void btnOpenScan_Click(object sender, EventArgs e)
