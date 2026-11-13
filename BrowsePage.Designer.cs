@@ -187,7 +187,7 @@
             this.chkFilipiniana.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkFilipiniana.Cursor = System.Windows.Forms.Cursors.Hand;
             this.chkFilipiniana.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(66)))), ((int)(((byte)(106)))));
-            this.chkFilipiniana.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(102)))), ((int)(((byte)(241)))));
+            this.chkFilipiniana.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(129)))), ((int)(((byte)(140)))), ((int)(((byte)(248)))));
             this.chkFilipiniana.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.chkFilipiniana.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkFilipiniana.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(238)))), ((int)(((byte)(252)))));
@@ -204,7 +204,7 @@
             this.chkCirculation.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkCirculation.Cursor = System.Windows.Forms.Cursors.Hand;
             this.chkCirculation.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(66)))), ((int)(((byte)(106)))));
-            this.chkCirculation.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(102)))), ((int)(((byte)(241)))));
+            this.chkCirculation.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(129)))), ((int)(((byte)(140)))), ((int)(((byte)(248)))));
             this.chkCirculation.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.chkCirculation.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkCirculation.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(238)))), ((int)(((byte)(252)))));
@@ -221,7 +221,7 @@
             this.chkReference.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkReference.Cursor = System.Windows.Forms.Cursors.Hand;
             this.chkReference.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(66)))), ((int)(((byte)(106)))));
-            this.chkReference.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(102)))), ((int)(((byte)(241)))));
+            this.chkReference.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(129)))), ((int)(((byte)(140)))), ((int)(((byte)(248)))));
             this.chkReference.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.chkReference.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkReference.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(238)))), ((int)(((byte)(252)))));
@@ -238,7 +238,7 @@
             this.chkReserved.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkReserved.Cursor = System.Windows.Forms.Cursors.Hand;
             this.chkReserved.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(66)))), ((int)(((byte)(106)))));
-            this.chkReserved.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(102)))), ((int)(((byte)(241)))));
+            this.chkReserved.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(129)))), ((int)(((byte)(140)))), ((int)(((byte)(248)))));
             this.chkReserved.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.chkReserved.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkReserved.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(238)))), ((int)(((byte)(252)))));
@@ -264,7 +264,7 @@
             this.chkAvailable.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkAvailable.Cursor = System.Windows.Forms.Cursors.Hand;
             this.chkAvailable.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(66)))), ((int)(((byte)(106)))));
-            this.chkAvailable.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(102)))), ((int)(((byte)(241)))));
+            this.chkAvailable.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(129)))), ((int)(((byte)(140)))), ((int)(((byte)(248)))));
             this.chkAvailable.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.chkAvailable.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkAvailable.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(238)))), ((int)(((byte)(252)))));
@@ -281,7 +281,7 @@
             this.chkUnavailable.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkUnavailable.Cursor = System.Windows.Forms.Cursors.Hand;
             this.chkUnavailable.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(66)))), ((int)(((byte)(106)))));
-            this.chkUnavailable.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(99)))), ((int)(((byte)(102)))), ((int)(((byte)(241)))));
+            this.chkUnavailable.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(129)))), ((int)(((byte)(140)))), ((int)(((byte)(248)))));
             this.chkUnavailable.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.chkUnavailable.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkUnavailable.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(232)))), ((int)(((byte)(238)))), ((int)(((byte)(252)))));

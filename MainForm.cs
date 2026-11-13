@@ -40,6 +40,7 @@ namespace BooklatForms
 
         private void btnNavScan_Click(object sender, EventArgs e)
         {
+            ShowPage(new ScanPage(), "Scan Menu", "Scan an ISBN or QR code");
         }
 
         private void btnNavReturn_Click(object sender, EventArgs e)

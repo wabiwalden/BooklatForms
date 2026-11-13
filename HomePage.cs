@@ -27,6 +27,7 @@ namespace BooklatForms
 
         private void btnOpenScan_Click(object sender, EventArgs e)
         {
+            MainForm.Instance.ShowPage(new ScanPage(), "Scan Menu", "Scan an ISBN or QR code");
         }
 
         private void btnOpenReturn_Click(object sender, EventArgs e)
