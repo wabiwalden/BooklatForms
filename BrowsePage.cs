@@ -52,6 +52,10 @@ namespace BooklatForms
 
         private void btnEnqueue_Click(object sender, EventArgs e)
         {
+            using (EnqueueForm f = new EnqueueForm())
+            {
+                f.ShowDialog();
+            }
         }
     }
 }
