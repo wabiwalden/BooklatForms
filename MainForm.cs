@@ -21,6 +21,8 @@ namespace BooklatForms
             panelHost.Controls.Add(page);
             lblTitle.Text = title;
             lblSubtitle.Text = subtitle;
+            btnBackToManage.Visible = false;
+            lblStaff.Visible = btnBackToManage.Visible || page is ReturnPage || page is ManagePage;
         }
 
         private void btnNavHome_Click(object sender, EventArgs e)
@@ -50,10 +52,12 @@ namespace BooklatForms
 
         private void btnNavManage_Click(object sender, EventArgs e)
         {
+            ShowPage(new ManagePage(), "Manage Menu", "Staff only \u2013 library maintenance");
         }
 
         private void btnBackToManage_Click(object sender, EventArgs e)
         {
+            ShowPage(new ManagePage(), "Manage Menu", "Staff only \u2013 library maintenance");
         }
     }
 }

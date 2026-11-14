@@ -37,6 +37,7 @@ namespace BooklatForms
 
         private void btnOpenManage_Click(object sender, EventArgs e)
         {
+            MainForm.Instance.ShowPage(new ManagePage(), "Manage Menu", "Staff only \u2013 library maintenance");
         }
     }
 }
