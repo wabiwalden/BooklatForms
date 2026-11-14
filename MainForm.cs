@@ -45,6 +45,7 @@ namespace BooklatForms
 
         private void btnNavReturn_Click(object sender, EventArgs e)
         {
+            ShowPage(new ReturnPage(), "Return Book", "Staff only \u2013 record a returned copy");
         }
 
         private void btnNavManage_Click(object sender, EventArgs e)
