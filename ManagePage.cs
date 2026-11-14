@@ -20,10 +20,12 @@ namespace BooklatForms
 
         private void btnAddBook_Click(object sender, EventArgs e)
         {
+            MainForm.Instance.ShowPage(new AddDeleteBookPage(), "Add / Delete Book", "Staff only \u2013 manage the book catalog");
         }
 
         private void btnDeleteBook_Click(object sender, EventArgs e)
         {
+            MainForm.Instance.ShowPage(new AddDeleteBookPage(), "Add / Delete Book", "Staff only \u2013 manage the book catalog");
         }
 
         private void btnAddThesis_Click(object sender, EventArgs e)

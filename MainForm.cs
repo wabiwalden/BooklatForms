@@ -21,7 +21,7 @@ namespace BooklatForms
             panelHost.Controls.Add(page);
             lblTitle.Text = title;
             lblSubtitle.Text = subtitle;
-            btnBackToManage.Visible = false;
+            btnBackToManage.Visible = page is AddDeleteBookPage;
             lblStaff.Visible = btnBackToManage.Visible || page is ReturnPage || page is ManagePage;
         }
 
