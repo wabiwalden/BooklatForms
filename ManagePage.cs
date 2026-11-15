@@ -30,10 +30,12 @@ namespace BooklatForms
 
         private void btnAddThesis_Click(object sender, EventArgs e)
         {
+            MainForm.Instance.ShowPage(new AddDeleteThesisPage(), "Add / Delete Thesis", "Staff only \u2013 manage thesis papers");
         }
 
         private void btnDeleteThesis_Click(object sender, EventArgs e)
         {
+            MainForm.Instance.ShowPage(new AddDeleteThesisPage(), "Add / Delete Thesis", "Staff only \u2013 manage thesis papers");
         }
 
         private void btnAddUser_Click(object sender, EventArgs e)
