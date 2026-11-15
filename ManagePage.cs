@@ -40,10 +40,12 @@ namespace BooklatForms
 
         private void btnAddUser_Click(object sender, EventArgs e)
         {
+            MainForm.Instance.ShowPage(new AddDeleteUserPage(), "Add / Delete User", "Staff only \u2013 manage borrower accounts");
         }
 
         private void btnDeleteUser_Click(object sender, EventArgs e)
         {
+            MainForm.Instance.ShowPage(new AddDeleteUserPage(), "Add / Delete User", "Staff only \u2013 manage borrower accounts");
         }
 
         private void btnSearchUser_Click(object sender, EventArgs e)
